@@ -4,6 +4,6 @@ if a.isalpha():
   if a in l:
     print ("vowel")
   else:
-    print("consonant")
+    print("Consonant")
 else:
   print("invalid")
