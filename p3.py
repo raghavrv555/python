@@ -1,4 +1,4 @@
-a,b=input().split()
+
 a,b=input().split()
 char=abs(len(b)-len(a))
 for g in range(len(a)):
@@ -7,4 +7,4 @@ for g in range(len(a)):
   if(a[g]!=b[g]):
     char=char+1
 print(char)
-yhtghd
+
