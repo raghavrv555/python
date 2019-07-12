@@ -1,8 +1,7 @@
-ch=int(input())
-if ch%2==0:
-    print(ch*(ch//2)-(ch//2))
+#a
+chat=int(input())
+if chat%2==0:
+    print(chat*(chat//2)-(chat//2))
 else:
-    print(ch*(ch//2)
-    
-    
+    print(chat*(chat//2))
     
