@@ -6,4 +6,4 @@ elif(n==224):
 else:
 	print("NO")
 
-fuhasfurrurruuruf
+
