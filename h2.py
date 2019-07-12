@@ -1,4 +1,4 @@
-t12 = int(input())
-n12 = [x for x in input().split()]
-m12= sorted(n12, reverse=True)
-print(''.join(m12))
+t = int(input())
+n = [x for x in input().split()]
+m= sorted(n, reverse=True)
+print(''.join(m))
