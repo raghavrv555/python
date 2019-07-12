@@ -1,6 +1,6 @@
 
 n=int(input())
-str=[]
+st=[]
 for i in range(0,n):
     s=input()
     st.append(s)
