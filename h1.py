@@ -8,4 +8,4 @@ if len(lst1) == 0:
     print('unique')
 else:
     print(' '.join(sorted(set(lst1))))
-    gssgd
+    
