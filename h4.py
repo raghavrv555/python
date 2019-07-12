@@ -6,4 +6,4 @@ for i in s1:
         if i not in t1:
             t1.append(i)
 print(*t1)
-df
+
