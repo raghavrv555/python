@@ -1,4 +1,4 @@
-n=input()
+
 n= int(input())
 lis = list(map(str,input().split()))
 ans=[]
