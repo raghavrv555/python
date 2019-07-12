@@ -5,4 +5,4 @@ else:
     print(ch*(ch//2)
     
     
-    f
+    
