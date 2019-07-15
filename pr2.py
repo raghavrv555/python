@@ -6,4 +6,4 @@ for _ in range(q):
     l1.append(sum(l[a-1:b]))
 for i in l1:
     print(i)
-    ip
+    
