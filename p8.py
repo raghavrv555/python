@@ -9,4 +9,4 @@ for i in r2:
     x2=i[0]-1
     y2=i[1]-1
     print(math.gcd(s2[x2],s2[y2]))
-    op
+    
