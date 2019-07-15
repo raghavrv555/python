@@ -5,4 +5,4 @@ for i in range(0, a):
         break
     s = a - pow(2, i)
 print(s)
-print
+
