@@ -5,4 +5,4 @@ l.sort(reverse=True)
 l = [int(x,2) for x in l]
 for x in l:
   print(x)
-  ptinyu
+  
