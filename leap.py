@@ -10,4 +10,4 @@ if(x%4==0):
 else:
     print("no")
     
-    print ()
+   
