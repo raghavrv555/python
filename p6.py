@@ -8,4 +8,3 @@ for f in range(cb):
                 a+=1
 print(a)
 
-print
