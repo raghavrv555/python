@@ -9,4 +9,4 @@ for p in range(int(b)):
 			min=h[z]	
 	print(min)
 	continue
-  gh
+  
